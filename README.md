@@ -1,6 +1,6 @@
 # Hey, I'm Dan 👋
 
-A Senior Product Engineer based in London, currently working at [Risk Ledger](https://riskledger.com).
+A Product Manager based in London, currently working at [Risk Ledger](https://riskledger.com).
 
 You can find me elsewhere on the web 🌍:
 
